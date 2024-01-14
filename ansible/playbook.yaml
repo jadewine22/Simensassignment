@@ -5,3 +5,5 @@
   tasks:
     - name: Install and configure web server
       // Add Ansible tasks here
+
+.
